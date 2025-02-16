@@ -128,7 +128,10 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+
 .env
+first_cicd_doc/
+#.first_cicd_doc
 .venv
 env/
 venv/
